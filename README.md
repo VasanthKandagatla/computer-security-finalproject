@@ -1,6 +1,6 @@
 # computer-security-finalproject
 
-Password Manager
+## Password Manager
 
 This code works as a simple password manager by means of [Argon2]( https://pypi.org/project/argon2-cffi/)  hashing, with [ChaCha20]( https://pycryptodome.readthedocs.io/en/latest/src/cipher/chacha20.html)  encoding using a password resulting key created with [Scrypt]( https://cryptobook.nakov.com/mac-and-key-derivation/scrypt)  from a master and a login passwords. 
  
