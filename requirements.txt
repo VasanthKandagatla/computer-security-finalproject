@@ -1,0 +1,11 @@
+argon2==0.1.10
+argon2-cffi==20.1.0
+cffi==1.14.4
+pycparser==2.20
+pycryptodome==3.9.9
+pyscrypt==1.6.2
+sqllite
+mega.py
+
+
+
